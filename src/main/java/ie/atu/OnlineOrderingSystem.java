@@ -7,7 +7,8 @@ public class OnlineOrderingSystem {
                 //add menu items
                 new Burger(8.99,"Classic Burger","Beef patty, lettuce, tomato,cheese"),
                 new Pizza("Margherita Pizza",12.99,"Tomato sauce, mozzarella, basil"),
-                new Salad("Caeser Salad",6.99,"Romaine lettuce, croutons, Caeser dressing")
+                new Salad("Caeser Salad",6.99,"Romaine lettuce, croutons, Caeser dressing"),
+                new Dessert(9.99,"chocolate cake","milk, cocoa powder, flour, egg")
         };
 
         //Display details of each of menu item
